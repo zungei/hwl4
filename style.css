@@ -1,0 +1,27 @@
+.main {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+h1 {
+display: block;
+padding: 50px 50px 25px 20px;
+margin-top: 50px;
+font-size: 35px;
+}
+.heading {
+display: inline;
+}
+.tphcm {
+    display: inline;
+    color: gray;
+}
+.máypay {
+    width: 900px;
+margin-left: 260px;
+
+}
+body {
+    background-color: grey;
+}
